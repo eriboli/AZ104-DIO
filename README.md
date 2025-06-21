@@ -5,13 +5,13 @@ Conteúdo abordado no BootCamp AZ-104 da DIO:
 
 1. Gerenciamento de Identidade e Governança do Azure
 
-Criação e gerenciamento de usuários, grupos e permissões no Azure AD
+	Criação e gerenciamento de usuários, grupos e permissões no Azure AD
 
-Implementação de políticas de acesso condicional e autenticação multifator (MFA)
+	Implementação de políticas de acesso condicional e autenticação multifator (MFA)
 
-Gerenciamento de assinaturas e grupos de gerenciamento
+	Gerenciamento de assinaturas e grupos de gerenciamento
 
-Uso de políticas do Azure e controle de RBAC (controle baseado em função)
+	Uso de políticas do Azure e controle de RBAC (controle baseado em função)
 
 2. Implementação e Gerenciamento de Armazenamento
 
