@@ -15,50 +15,50 @@ Conteúdo abordado no BootCamp AZ-104 da DIO:
 
 2. Implementação e Gerenciamento de Armazenamento
 
-Criação de contas de armazenamento e escolha de redundância adequada
+	Criação de contas de armazenamento e escolha de redundância adequada
 
-Configuração de containers, blobs, arquivos e compartilhamentos
+	Configuração de containers, blobs, arquivos e compartilhamentos
 
-Gerenciamento de políticas de acesso com SAS e Azure AD
+	Gerenciamento de políticas de acesso com SAS e Azure AD
 
-Implementação de backup e recuperação com Azure Backup
+	Implementação de backup e recuperação com Azure Backup
 
 3. Implementação e Gerenciamento de Recursos de Computação
 
-Criação e configuração de máquinas virtuais (VMs)
+	Criação e configuração de máquinas virtuais (VMs)
 
-Uso de conjuntos de disponibilidade e escalabilidade
+	Uso de conjuntos de disponibilidade e escalabilidade
 
-Gerenciamento de extensões de VM, snapshots e imagens
+	Gerenciamento de extensões de VM, snapshots e imagens
 
-Monitoramento de desempenho e integridade das VMs
+	Monitoramento de desempenho e integridade das VMs
 
 4. Configuração e Gerenciamento de Redes Virtuais
 
-Criação e configuração de redes virtuais (VNets) e sub-redes
+	Criação e configuração de redes virtuais (VNets) e sub-redes
 
-Implementação de peering de VNets, gateways VPN e Azure ExpressRoute
+	Implementação de peering de VNets, gateways VPN e Azure ExpressRoute
 
-Configuração de balanceadores de carga, NSGs e roteamento
+	Configuração de balanceadores de carga, NSGs e roteamento
 
-Gerenciamento de IPs públicos e privados
+	Gerenciamento de IPs públicos e privados
 
 5. Monitoramento e Backup de Recursos do Azure
 
-Configuração do Azure Monitor, Log Analytics e alertas
+	Configuração do Azure Monitor, Log Analytics e alertas
 
-Implementação de soluções de monitoramento de desempenho e métricas
+	Implementação de soluções de monitoramento de desempenho e métricas
 
-Gerenciamento de backups com Azure Recovery Services Vault
+	Gerenciamento de backups com Azure Recovery Services Vault
 
-Análise de logs e eventos com Kusto Query Language (KQL)
+	Análise de logs e eventos com Kusto Query Language (KQL)
 
 6. Gerenciamento de Soluções PaaS
 
-Implementação e gerenciamento de Azure App Services
+	Implementação e gerenciamento de Azure App Services
 
-Configuração de planos de serviço e slots de implantação
+	Configuração de planos de serviço e slots de implantação
 
-Gerenciamento de Azure Container Instances e Azure Kubernetes Service (AKS)
+	Gerenciamento de Azure Container Instances e Azure Kubernetes Service (AKS)
 
-Conexões com bancos de dados e serviços gerenciados
+	Conexões com bancos de dados e serviços gerenciados
