@@ -9,13 +9,43 @@ Conteúdo abordado no BootCamp AZ-104 da DIO até o módulo 8 :
 
 	Implementação de políticas de acesso condicional e autenticação multifator (MFA)
 
-2. Gerenciamento de Governança
+2. Gerenciamento de Governança e Conformidade
 
-   Gerenciamento de assinaturas e grupos de gerenciamento
+	Gerenciamento de assinaturas e grupos de gerenciamento
 
-        Uso de políticas do Azure e controle de RBAC (controle baseado em função)
+	Uso de políticas do Azure e controle de RBAC (controle baseado em função)
 
-2. Implementação e Gerenciamento de Armazenamento
+3. Gerenciamento de Recursos do Azure
+
+	Gerenciamento de recursos do Azure com ferramentas
+
+	Criação, importação e gerenciamento de recursos com modelos ARM
+
+4. Configuração e Gerenciamento de Redes Virtuais
+
+	Implementação e gerenciamento de peering de VNets
+		
+	 Criação e configuração de redes virtuais (VNets) e sub-redes
+	
+	Configuração e gerenciamento de grupos de segurança
+		
+	Gerenciamento do DNS
+
+5. Administração de Conectividade entre Sites
+
+	Configurando o emparelhamento de VNets
+	
+	Configuração e gerenciamento de pontos de extremidade e roteamento
+
+6. Gerenciamento do Tráfego de Rede
+
+	Configuração de Load Balancer, NSGs e roteamento
+
+	Implementação e gerenciamento de Application Gateways
+
+	Configuração e utilização de Network Whatcher
+
+7. Implementação e Gerenciamento de Armazenamento
 
 	Criação de contas de armazenamento e escolha de redundância adequada
 
@@ -25,17 +55,7 @@ Conteúdo abordado no BootCamp AZ-104 da DIO até o módulo 8 :
 
 	Implementação de backup e recuperação com Azure Backup
 
-3. Configuração e Gerenciamento de Redes Virtuais
-
-	Criação e configuração de redes virtuais (VNets) e sub-redes
-
-	Implementação de peering de VNets, gateways VPN e Azure ExpressRoute
-
-	Configuração de balanceadores de carga, NSGs e roteamento
-
-	Gerenciamento de IPs públicos e privados
-
-4. Implementação e Gerenciamento de Recursos de Computação
+8. Implementação e Gerenciamento de Recursos de Computação
 
 	Criação e configuração de máquinas virtuais (VMs)
 
